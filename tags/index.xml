@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Adrijus blog</title>
-    <link>https://github.com/AdrijusReiponasUni/Public_hugo.github.io.git/tags/</link>
+    <link>http://localhost:1313/AdrijusReiponasUni/Public_hugo.github.io.git/tags/</link>
     <description>Recent content in Tags on Adrijus blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Dec 2024 14:30:47 +0200</lastBuildDate>
-    <atom:link href="https://github.com/AdrijusReiponasUni/Public_hugo.github.io.git/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/AdrijusReiponasUni/Public_hugo.github.io.git/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Untagged</title>
-      <link>https://github.com/AdrijusReiponasUni/Public_hugo.github.io.git/tags/untagged/</link>
+      <link>http://localhost:1313/AdrijusReiponasUni/Public_hugo.github.io.git/tags/untagged/</link>
       <pubDate>Mon, 09 Dec 2024 14:30:47 +0200</pubDate>
-      <guid>https://github.com/AdrijusReiponasUni/Public_hugo.github.io.git/tags/untagged/</guid>
+      <guid>http://localhost:1313/AdrijusReiponasUni/Public_hugo.github.io.git/tags/untagged/</guid>
       <description></description>
     </item>
   </channel>
